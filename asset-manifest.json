@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/hours_calculator/static/css/main.acc16e7b.css",
-    "main.js": "/hours_calculator/static/js/main.189af750.js",
+    "main.css": "/hours_calculator/static/css/main.aec5b696.css",
+    "main.js": "/hours_calculator/static/js/main.be511473.js",
     "static/js/488.797ca283.chunk.js": "/hours_calculator/static/js/488.797ca283.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/hours_calculator/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/hours_calculator/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/hours_calculator/index.html",
-    "main.acc16e7b.css.map": "/hours_calculator/static/css/main.acc16e7b.css.map",
-    "main.189af750.js.map": "/hours_calculator/static/js/main.189af750.js.map",
+    "main.aec5b696.css.map": "/hours_calculator/static/css/main.aec5b696.css.map",
+    "main.be511473.js.map": "/hours_calculator/static/js/main.be511473.js.map",
     "488.797ca283.chunk.js.map": "/hours_calculator/static/js/488.797ca283.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acc16e7b.css",
-    "static/js/main.189af750.js"
+    "static/css/main.aec5b696.css",
+    "static/js/main.be511473.js"
   ]
 }
