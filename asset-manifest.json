@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hours_calculator/static/css/main.acc16e7b.css",
+    "main.js": "/hours_calculator/static/js/main.189af750.js",
+    "static/js/488.797ca283.chunk.js": "/hours_calculator/static/js/488.797ca283.chunk.js",
+    "index.html": "/hours_calculator/index.html",
+    "main.acc16e7b.css.map": "/hours_calculator/static/css/main.acc16e7b.css.map",
+    "main.189af750.js.map": "/hours_calculator/static/js/main.189af750.js.map",
+    "488.797ca283.chunk.js.map": "/hours_calculator/static/js/488.797ca283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acc16e7b.css",
+    "static/js/main.189af750.js"
+  ]
+}
